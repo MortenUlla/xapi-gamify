@@ -1,0 +1,12 @@
+{
+  "name": "xapi-gamify",
+  "version": "1.0.0",
+  "description": "Gamify training with celebration effects.",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"No tests\""
+  },
+  "dependencies": {
+    "canvas-confetti": "^1.6.0"
+  }
+}
